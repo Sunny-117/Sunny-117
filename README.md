@@ -36,7 +36,7 @@
 
 
 
-# 工作经历：
+# 工作经历（一年实习经验）
 
 - 2021-至今        腾讯课堂前端方向答疑老师             兼职前端答疑老师
 
@@ -74,7 +74,6 @@
 
 # 开源
 > [Tencent](https://github.com/Tencent/OMI)> [bytedance](https://github.com/bytedance/magic-microservices)> [DouyinFE](https://github.com/DouyinFE/semi-design)> [arco-design](https://github.com/arco-design/arco-design)> [liyupi](https://github.com/liyupi/code-nav)> [TencentCloudBase](https://github.com/TencentCloudBase/cloudbase-framework)> [withastro](https://github.com/withastro/astro)> [hua1995116](https://github.com/hua1995116/react-resume-site)
-
 
 
 # Github status
