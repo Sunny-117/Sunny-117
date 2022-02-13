@@ -3,7 +3,13 @@
 [![](https://img.shields.io/badge/Github-Sunny--117-brightgreen)](https://github.com/Sunny-117)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-Sunny--117-brightgreen)](https://sunny-117.github.io/)
 
-
+- 🐧 滴滴前端研发实习生
+- 👨‍💻 经历：
+- 🏡 作品：
+- 🌱 干货：
+- 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ...
+- 🌝知识博客：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
+- 💬 微信：17560850561
 
 ## Technology Stack
 
