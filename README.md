@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-Sunny--117-brightgreen)](https://sunny-117.github.io/)
 
 - 🐧 滴滴前端研发实习生
-- 👨‍💻 经历：
+- 👨‍💻 经历：大一学了一年嵌入式，参加比赛获得过一些奖项。大二正式进军前端，学了一年后...
 - 🏡 作品：
 - 🌱 干货：
 - 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ...
