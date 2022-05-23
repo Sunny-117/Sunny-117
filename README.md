@@ -3,8 +3,8 @@
 [![](https://img.shields.io/badge/Github-Sunny--117-brightgreen)](https://github.com/Sunny-117)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-Sunny--117-brightgreen)](https://sunny-117.github.io/)
 
-- 🐧 前滴滴前端研发实习生，现上海字节跳动研发实习生
-- 👨‍💻 经历：大一学了一年嵌入式，参加比赛获得过一些奖项。大二正式进军前端，学了一年后加入滴滴，参与前端研发相关工作，现在在字节跳动
+- 🐧 前滴滴前端研发实习生，现**上海字节跳动**研发实习生
+- 👨‍💻 经历：大一学了一年嵌入式，参加比赛获得过一些奖项。大二正式进军前端，学了一年后加入滴滴，参与前端研发相关工作，现在在**字节跳动**
 - 🏡 作品：PersonBlog, Vue2-wheels and so on
 - 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ...
 - 🌝知识博客：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
