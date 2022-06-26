@@ -10,10 +10,7 @@
 - 🌝知识博客：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
 - 💬 微信：17560850561
 
-# 2022flag
-
-参与开源
-
+# 2022
 > [Tencent](https://github.com/Tencent/OMI)
 > 
 > [bytedance](https://github.com/bytedance/magic-microservices)
