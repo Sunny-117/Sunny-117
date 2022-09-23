@@ -11,21 +11,7 @@
 - 💬 微信：17560850561
 
 # 2022
-> [Tencent](https://github.com/Tencent/OMI)
-> 
-> [bytedance](https://github.com/bytedance/magic-microservices)
->
-> [DouyinFE](https://github.com/DouyinFE/semi-design)
-> 
-> [arco-design](https://github.com/arco-design/arco-design)
-> 
-> [liyupi](https://github.com/liyupi/code-nav)
-> 
-> [TencentCloudBase](https://github.com/TencentCloudBase/cloudbase-framework)
-> 
-> [withastro](https://github.com/withastro/astro)
-> 
-> [hua1995116](https://github.com/hua1995116/react-resume-site)
+> [Tencent](https://github.com/Tencent/OMI)> [bytedance](https://github.com/bytedance/magic-microservices)> [DouyinFE](https://github.com/DouyinFE/semi-design)> [arco-design](https://github.com/arco-design/arco-design)> [liyupi](https://github.com/liyupi/code-nav)> [TencentCloudBase](https://github.com/TencentCloudBase/cloudbase-framework)> [withastro](https://github.com/withastro/astro)> [hua1995116](https://github.com/hua1995116/react-resume-site)
 
 # Technology Stack
 
