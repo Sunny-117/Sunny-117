@@ -9,6 +9,7 @@
 - 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ...
 - 🌝知识博客：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
 - 💬 微信：17560850561
+- 你若盛开，清风自来
 
 # 2022
 > [Tencent](https://github.com/Tencent/OMI)> [bytedance](https://github.com/bytedance/magic-microservices)> [DouyinFE](https://github.com/DouyinFE/semi-design)> [arco-design](https://github.com/arco-design/arco-design)> [liyupi](https://github.com/liyupi/code-nav)> [TencentCloudBase](https://github.com/TencentCloudBase/cloudbase-framework)> [withastro](https://github.com/withastro/astro)> [hua1995116](https://github.com/hua1995116/react-resume-site)
