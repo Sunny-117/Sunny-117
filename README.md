@@ -5,8 +5,8 @@
 
 - 🐧 前滴滴前端研发实习生(智能平台)，现**上海字节跳动**研发实习生(data-商业化技术)
 - 👨‍💻 经历：大一学了一年嵌入式，成果：单片机设计2等奖，电赛三等奖。大二正式进军前端，学了一年后加入滴滴智能平台事业群，参与前端研发相关工作，现在在**字节跳动**负责前端研发工作
-- 🏡 作品：PersonBlog, Vue2-wheels and so on
-- 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ...
+- 🏡 作品：todo
+- 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ... todo
 - 🌝知识博客：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
 - 💬 微信：17560850561
 - 你若盛开，清风自来
