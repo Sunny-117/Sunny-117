@@ -7,7 +7,8 @@
 - 👨‍💻 经历：大一学了一年嵌入式，成果：单片机设计2等奖，电赛三等奖。大二正式进军前端，学了一年后加入滴滴智能平台事业群，参与前端研发相关工作，现在在**字节跳动**负责前端研发工作
 - 🏡 作品：todo
 - 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ... todo
-- 🌝知识博客：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
+- 🌝前端学习笔记blog：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
+- 🌝致力于最全，最前沿前端技术知识库：<a href="https://sunny-117.github.io/FrontEndKnowledge/" target="_blank">FrontEndKnowledge</a> 
 - 💬 微信：17560850561
 - 你若盛开，清风自来
 - 相约而至，风雨无阻，漫漫岁月，赤子之心
