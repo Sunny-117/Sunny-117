@@ -8,7 +8,7 @@
 - 🏡 作品：todo
 - 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ... todo
 - 🌝前端学习笔记blog：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
-- 🌝致力于最全，最前沿前端技术知识库：<a href="https://sunny-117.github.io/FrontEndKnowledge/" target="_blank">FrontEndKnowledge</a> 
+- 🌝致力于最全，最前沿前端技术知识库：<a href="https://sunny-117.github.io/FrontEndKnowledge/" target="_blank">FrontEndKnowledge</a> (暂时闭源，等它成熟，可以访问)
 - 💬 微信：17560850561
 - 你若盛开，清风自来
 - 相约而至，风雨无阻，漫漫岁月，赤子之心
