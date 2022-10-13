@@ -13,6 +13,17 @@
 - 你若盛开，清风自来
 - 相约而至，风雨无阻，漫漫岁月，赤子之心
 
+# Organizations
+
+<a href="https://github.com/Front-end-knowledge-base" target="_blank">Front-end-knowledge-base</a>  致力于打造网上最全最深前端知识库
+
+<a href="https://github.com/componentUI" target="_blank">componentUI</a>  学习开源组件库的一些沉淀和产出
+
+<a href="https://github.com/ideas-tips-frontend" target="_blank">ideas-tips-frontend</a>  突发奇想的项目库
+
+<a href="https://github.com/learn-sources-code" target="_blank">learn-sources-code</a>  学习前端相关框架、工具库的源码沉淀和实现
+
+
 
 # 开源
 > [Tencent](https://github.com/Tencent/OMI)> [bytedance](https://github.com/bytedance/magic-microservices)> [DouyinFE](https://github.com/DouyinFE/semi-design)> [arco-design](https://github.com/arco-design/arco-design)> [liyupi](https://github.com/liyupi/code-nav)> [TencentCloudBase](https://github.com/TencentCloudBase/cloudbase-framework)> [withastro](https://github.com/withastro/astro)> [hua1995116](https://github.com/hua1995116/react-resume-site)
