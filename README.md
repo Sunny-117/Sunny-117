@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-Sunny--117-brightgreen)](https://sunny-117.github.io/)
 
 - 🐧 前滴滴前端研发实习生(智能平台)，现**上海字节跳动**研发实习生(data-商业化技术)
-- 👨‍💻 经历：大一学了一年嵌入式，成果：单片机设计2等奖，电赛三等奖。大二正式进军前端，学了一年后加入滴滴智能平台事业群，参与前端研发相关工作，现在在**字节跳动**负责前端研发工作
+- 👨‍💻 经历：大一学了一年嵌入式，成果：单片机设计2等奖，电赛三等奖。大二正式进军前端，曾在滴滴智能平台事业群体验平台部，**字节跳动Data商业化技术**负责前端研发工作
 - 🏡 I'm working on FrontEndKnowledge
 - 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ... todo
 - 🌝前端学习笔记blog：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
