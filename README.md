@@ -6,6 +6,7 @@
 - 🐧 前滴滴前端研发实习生(智能平台)，现**上海字节跳动**研发实习生(data-商业化技术)
 - 👨‍💻 经历：大一学了一年嵌入式，成果：单片机设计2等奖，电赛三等奖。大二正式进军前端，曾在滴滴智能平台事业群体验平台部，**字节跳动Data商业化技术**负责前端研发工作
 - 🏡 I'm working on FrontEndKnowledge
+- 💻 我的前端学习历程笔记，纯基础知识沉淀 https://sunny-117.github.io/，目前已不维护，转向 <a>FrontEndKnowledge</a>的输出
 - 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a> | 抖音 ... todo
 - 🌝前端学习笔记blog：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
 - 🌝致力于最全，最前沿前端技术知识库：<a href="https://sunny-117.github.io/FrontEndKnowledge/" target="_blank">FrontEndKnowledge</a> (暂时闭源，等它成熟，可以访问)
