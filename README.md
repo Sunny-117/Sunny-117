@@ -18,6 +18,7 @@
 - 👨‍💻 山东理工大学-本科-自动化专业转行前端选手
 - 👨‍💻 原嵌入式单片机设计，电子设计竞赛选手
 - 🏡 I'm working on FrontEndKnowledge
+- 💻 <a href="https://www.nowcoder.com/users/363848192">笔经面经</a>
 - 💻 我的前端学习历程笔记，纯基础知识沉淀 https://sunny-117.github.io/ 目前已不维护，转向<a>FrontEndKnowledge</a>的输出
 - 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a>
 - 🌝前端学习笔记blog：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
