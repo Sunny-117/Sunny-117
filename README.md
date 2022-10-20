@@ -15,6 +15,7 @@
 
 个人介绍：
 
+- <a href="https://jzq422bol5.feishu.cn/wiki/wikcnuSye5AxZ1IwRyRedlKxaAh">个人分享</a>
 - 👨‍💻 山东理工大学-本科-自动化专业转行前端选手
 - 👨‍💻 原嵌入式单片机设计，电子设计竞赛选手
 - 🏡 I'm working on FrontEndKnowledge
