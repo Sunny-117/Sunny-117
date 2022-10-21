@@ -1,7 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 , I',m Sunny
 
 [![](https://img.shields.io/badge/Github-Sunny--117-brightgreen)](https://github.com/Sunny-117)
-[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-Sunny--117-brightgreen)](https://sunny-117.github.io/)
+[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-Sunny--117-brightgreen)](https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf)
 
 工作经历：
 
@@ -13,7 +13,7 @@
 
 - 2022.5-2022.10  上海字节跳动-Data商业化技术-商业平台  前端研发实习生
 
-个人介绍：
+个人介绍：<a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a>
 
 - 👨‍💻 <a href="https://jzq422bol5.feishu.cn/wiki/wikcnuSye5AxZ1IwRyRedlKxaAh">个人经历分享</a>
 - 👨‍💻 山东理工大学-本科-自动化专业转行前端选手
