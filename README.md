@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<h2 style="margin: 100px 0" align="center">Sunny <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
+<h2 height="200px" align="center">Sunny <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
 </p>
 
 
