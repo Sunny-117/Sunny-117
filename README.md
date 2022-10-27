@@ -46,6 +46,8 @@
 
 - 2022.5-2022.10  上海字节跳动-Data商业化技术-商业平台  前端研发实习生
 
+- 2022.10-至今         北京-百度-商业化  前端工程师
+
 # 个人介绍：<a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a>
 
 - 👨‍💻 <a href="https://jzq422bol5.feishu.cn/wiki/wikcnuSye5AxZ1IwRyRedlKxaAh">个人经历分享</a>
