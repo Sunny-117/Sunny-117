@@ -35,7 +35,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny-117" alt="sunny-117" /></a> </p>
+
 
 
 # 工作经历
@@ -77,6 +77,7 @@
 # 开源
 > [Tencent](https://github.com/Tencent/OMI)> [bytedance](https://github.com/bytedance/magic-microservices)> [DouyinFE](https://github.com/DouyinFE/semi-design)> [arco-design](https://github.com/arco-design/arco-design)> [liyupi](https://github.com/liyupi/code-nav)> [TencentCloudBase](https://github.com/TencentCloudBase/cloudbase-framework)> [withastro](https://github.com/withastro/astro)> [hua1995116](https://github.com/hua1995116/react-resume-site)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny-117" alt="sunny-117" /></a> </p>
 
 # Github status
 
