@@ -68,7 +68,6 @@
 # Organizations
 
 
-- <a href="https://github.com/componentUI" target="_blank">componentUI</a>  学习开源组件库的一些沉淀和产出
 - <a href="https://github.com/ideas-tips-frontend" target="_blank">ideas-tips-frontend</a>  突发奇想的项目库
 - <a href="https://github.com/learn-sources-code" target="_blank">learn-sources-code</a>  学习前端相关框架、工具库源码的沉淀和mini版本的实现
 
