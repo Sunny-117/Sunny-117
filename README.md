@@ -40,8 +40,6 @@
 
 # 工作经历
 
-- 2021-至今        腾讯课堂前端方向答疑老师             兼职前端答疑老师
-
 - 2021.11-2021.12 跨越星空北京科技有限公司             前端研发实习生 
 
 - 2021.12-2022.5  北京**滴滴出行**-智能平台事业群-体验前端   前端研发实习生
@@ -50,17 +48,17 @@
 
 - 2022.10-至今         北京-**百度**-商业平台研发部        前端工程师  
 
-# 个人介绍：<a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a>
+- 2021-至今        腾讯课堂前端方向答疑老师             兼职前端答疑老师
+
+# 个人说明书：<a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a>
 
 - 👨‍💻 <a href="https://jzq422bol5.feishu.cn/wiki/wikcnuSye5AxZ1IwRyRedlKxaAh">个人经历分享</a>
-- 👨‍💻 山东理工大学-本科-自动化专业转行前端选手
+- 👨‍💻 山东理工大学-本科-自动化专业
 - 👨‍💻 原嵌入式单片机设计，电子设计竞赛选手
-- 🏡 I'm working on FrontEndKnowledge
 - 💻 <a href="https://www.nowcoder.com/users/363848192">笔经面经</a>
-- 💻 我的前端学习历程笔记，纯基础知识沉淀 https://sunny-117.github.io/ 目前已不维护，转向<a>FrontEndKnowledge</a>的输出
+- 💻 我的前端学习历程笔记，纯基础知识沉淀 https://sunny-117.github.io/
 - 😺 视频：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a>
 - 🌝前端学习笔记blog：<a href="https://www.yuque.com/fuzhiqiang-uv0nm" target="_blank">语雀：Sunny</a> 
-- 🌝致力于最全，最前沿前端技术知识库：<a href="https://sunny-117.github.io/FrontEndKnowledge/" target="_blank">FrontEndKnowledge</a> (暂时闭源，等它成熟，可以访问)
 - 💬 微信：17560850561
 - 你若盛开，清风自来
 - 相约而至，风雨无阻，漫漫岁月，赤子之心
