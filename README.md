@@ -77,8 +77,9 @@
 
 <a href="https://github.com/mdn/translated-content">@mdn/translated-content</a>
 <br/>
-<a href="https://github.com/un-pany/v3-admin-vite">@vue-vben-admin</a>
-
+<a href="https://github.com/un-pany/v3-admin-vite">@v3-admin-vite</a>
+<br/>
+<a href="https://github.com/vbenjs/vue-vben-admin">@vue-vben-admin</a>
 
 
 # Github status
