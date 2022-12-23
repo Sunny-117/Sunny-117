@@ -73,13 +73,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny-117" alt="sunny-117" /></a> </p>
 
-## contributor
-
-<a href="https://github.com/mdn/translated-content">@mdn/translated-content</a>
-<br/>
-<a href="https://github.com/un-pany/v3-admin-vite">@v3-admin-vite</a>
-<br/>
-<a href="https://github.com/vbenjs/vue-vben-admin">@vue-vben-admin</a>
 
 
 # Github status
