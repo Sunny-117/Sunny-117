@@ -36,19 +36,9 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
 
 
-
-
 # 工作经历
 
-- 2021.11-2021.12 跨越星空北京科技有限公司             前端研发实习生 
-
-- 2021.12-2022.5  北京**滴滴出行**-智能平台事业群-体验前端   前端研发实习生
-
-- 2022.5-2022.10  上海**字节跳动**-Data商业化技术-商业平台  前端研发实习生
-
-- 2022.10-至今         北京-**百度**-商业平台研发部        前端工程师  
-
-- 2021-至今        腾讯课堂前端方向答疑老师             兼职前端答疑老师
+滴滴出行，字节跳动，百度
 
 # 个人说明书：<a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a>
 
