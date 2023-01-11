@@ -35,7 +35,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
 
-# <a href="https://jzq422bol5.feishu.cn/wiki/wikcnuSye5AxZ1IwRyRedlKxaAh">个人说明书</a>
+# <a href="https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0">个人说明书</a>
 
 - 🧱 打工记录：滴滴出行，字节跳动，百度
 - 🔥 <a href="https://github.com/doocs">@doocs</a> 成员
