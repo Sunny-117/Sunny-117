@@ -38,8 +38,7 @@
 
 # 工作经历
 
-![](https://img0.baidu.com/it/u=1734744308,3361220704&fm=253&app=138&size=w931&n=0&f=JPG&fmt=auto?sec=1673542800&t=b3f0d579eb2aedad394757fb14e1eb1c)
-字节跳动，百度
+滴滴出行，字节跳动，百度
 
 # 个人说明书：<a href="https://jzq422bol5.feishu.cn/wiki/wikcnDmhEiZBKFhsmvXoL4XOWuf">myBlog</a>
 
