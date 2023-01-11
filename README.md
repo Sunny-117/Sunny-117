@@ -42,9 +42,9 @@
 
 # <a href="https://jzq422bol5.feishu.cn/wiki/wikcnuSye5AxZ1IwRyRedlKxaAh">个人说明书</a>
 
-- 👨‍ <a href="https://github.com/doocs">@doocs</a> 成员
+- 🔥 <a href="https://github.com/doocs">@doocs</a> 成员
 - 🚀 前端历险记：https://sunny-117.github.io/blog/
-- 👨‍💻 本科-自动化专业, 原嵌入式单片机设计，电子设计竞赛选手
+- ⚡️ 本科-自动化专业, 原嵌入式单片机设计，电子设计竞赛选手
 - 💻 <a href="https://www.nowcoder.com/users/363848192">笔经面经</a>
 - 💻 我的前端学习历程笔记，纯基础知识沉淀 https://sunny-117.github.io/
 - 😺 视频(可能会更新 <a href="https://github.com/Sunny-117/js-challenges">js-challenges</a> 题目讲解视频)：<a href="https://space.bilibili.com/447694807" target="_blank">B站 CodeAc</a>
