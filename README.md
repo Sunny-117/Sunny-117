@@ -40,6 +40,7 @@
 - 🧱 打工记录：滴滴出行，字节跳动，百度
 - 🔥 <a href="https://github.com/doocs">@doocs</a> 成员
 - 🚀 前端历险记：https://sunny-117.github.io/blog/
+- 🚀 迷你前端源码库: https://sunny-117.github.io/mini-anything-docs/
 - ⚡️ 自动化专业, 嵌入式单片机设计，电子设计竞赛选手
 - 🔧 <a href="https://www.nowcoder.com/users/363848192">笔经面经</a>
 - 📦️ 纯基础知识沉淀 https://sunny-117.github.io/
