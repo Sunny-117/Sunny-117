@@ -40,7 +40,7 @@
 - ⚡️ 自动化专业, 嵌入式单片机设计，电子设计竞赛选手
 - 🔧 <a href="https://www.nowcoder.com/users/363848192">笔经面经</a>
 - 📦️ 纯基础知识沉淀 https://sunny-117.github.io/
-- ✨ 掘金专栏：https://juejin.cn/column/7244788137410560055
+- ✨ [掘金专栏](https://juejin.cn/user/2551305355400797/columns)
 - 💥 视频(会更新 <a href="https://github.com/Sunny-117/js-challenges">js-challenges</a> 题目讲解视频)：<a href="https://space.bilibili.com/447694807" target="_blank">B 站 CodeAc</a>，有条件的可以蹲一下
 - 🎉 你若盛开，清风自来；相约而至，风雨无阻，漫漫岁月，赤子之心
 - 🎉 天下大势，成久必败，败久必成，无论成与败，努力就好，一切随缘
