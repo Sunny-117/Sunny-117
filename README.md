@@ -34,7 +34,6 @@
 # <a href="https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0">个人说明书</a>
 
 - 🧱 搬砖记录：**滴滴出行，字节跳动，百度**
-- 🔥 <a href="https://github.com/doocs">@doocs</a> member
 - 🚀 前端历险记：https://sunny-117.github.io/blog/
 - 🚀 迷你前端源码库: https://sunny-117.github.io/mini-anything-docs/
 - ⚡️ 自动化专业, 嵌入式单片机设计，电子设计竞赛选手
