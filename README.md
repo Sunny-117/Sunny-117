@@ -44,6 +44,56 @@
 
 # Open Source
 
+## JavaScript programming 
+
+- [js-challenges](https://github.com/Sunny-117/js-challenges) ：✨ 一步步挑战你的 `JavaScript`编程极限 ![](https://img.shields.io/github/stars/Sunny-117/js-challenges?style=social)
+
+
+- [Native-project](https://github.com/Sunny-117/Native-project)：🔧 原生 JavaScript 项目集合 ![](https://img.shields.io/github/stars/Sunny-117/Native-project?style=social)
+
+
+## Technical articles
+
+
+- [mini-anything 迷你前端源码库](https://github.com/sunny-117/mini-anything) ：🚀 集合了前端领域的各种迷你版本的库，探索前端库源码，实现超级迷你版本，只包含原库的主流程，不包含边界 case       ![](https://img.shields.io/github/stars/Sunny-117/mini-anything?style=social)
+- [前端历险记](https://sunny-117.github.io/blog/)：Sunny 写博客的地方
+
+## React Hooks
+
+- [shooks](https://github.com/Sunny-117/shooks)：📦️ 一款高质量，可靠的 React Hooks 库
+
+## compiler
+
+- [tiny-complier](https://github.com/Sunny-117/tiny-complier)：实现超级 mini 的编译器，灵感来自于[the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+
+## Starter Templates
+
+
+## VS Code Extensions
+
+- [vsc-delete-func](https://github.com/Sunny-117/vsc-delete-func)：🍻 vscode plugins
+
+## TypeScript lib
+
+- [lodash-ts](https://github.com/Sunny-117/lodash-ts)：🎉 一致性、模块化、高性能的 JavaScript 实用工具库。本仓库完成 lodash 的 typescript 版本，只实现 lodash 中漂亮的函数，集成 Vitest 单元测试
+
+
+
+## plugin
+
+- [babel-plugin-dev-debug](https://github.com/Sunny-117/babel-plugin-dev-debug)：an babel plugin that for dev debug
+
+## ESLint
+
+- [eslint-plugin-reviewget](https://github.com/Sunny-117/eslint-plugin-reviewget)：🚀eslint-plugin
+
+## CLI
+
+## SDK
+
+- [Speed-measuring-gadget](https://github.com/Sunny-117/Speed-measuring-gadget)：一款测网速小工具，同时它具有测试内外网的能力
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny-117" alt="sunny-117" /></a> </p>
 
 # Github Status
