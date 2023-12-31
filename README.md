@@ -34,49 +34,47 @@
 # <a href="https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0">Sunny's instructions</a>
 
 - 🧱 Work Experience：didi(2021) ✈️ bytedance(2022) ✈ baidu(2023)
-- 🚀 前端历险记：https://sunny-117.github.io/blog/
-- 🚀 迷你前端源码库: https://sunny-117.github.io/mini-anything-docs/
-- 📦️ 纯基础知识沉淀 https://sunny-117.github.io/
-- ✨  [掘金专栏](https://juejin.cn/user/2551305355400797/columns)  [牛客网](https://www.nowcoder.com/users/363848192)  <a href="https://space.bilibili.com/447694807" target="_blank">bilibili</a>
-- 🎉 你若盛开，清风自来；相约而至，风雨无阻，漫漫岁月，赤子之心
-- 🎉 天下大势，成久必败，败久必成，无论成与败，努力就好，一切随缘
-- 💬 微信：**19811715506**，欢迎交流
+- 🚀 Frontend Adventures: https://sunny-117.github.io/blog/
+- 🚀 Mini-anything: https://sunny-117.github.io/mini-anything-docs/
+- 📦️ Basic knowledge: https://sunny-117.github.io/
+- ✨  [juejin](https://juejin.cn/user/2551305355400797/columns)  [nowcoder](https://www.nowcoder.com/users/363848192)  <a href="https://space.bilibili.com/447694807" target="_blank">bilibili</a>
+- 💬 WeChat：**19811715506**，Welcome to communicate!
 
 # Open Source
 
 ## JavaScript programming 
 
-- [js-challenges](https://github.com/Sunny-117/js-challenges) ：✨ 一步步挑战你的 `JavaScript`编程极限 ![](https://img.shields.io/github/stars/Sunny-117/js-challenges?style=social)
+- [js-challenges](https://github.com/Sunny-117/js-challenges) ：✨ Challenge your JavaScript programming limits step by step ![](https://img.shields.io/github/stars/Sunny-117/js-challenges?style=social)
 
 
-- [Native-project](https://github.com/Sunny-117/Native-project)：🔧 原生 JavaScript 项目集合 ![](https://img.shields.io/github/stars/Sunny-117/Native-project?style=social)
+- [Native-project](https://github.com/Sunny-117/Native-project)：🔧 Collection of native JavaScript projects ![](https://img.shields.io/github/stars/Sunny-117/Native-project?style=social)
 
 
 ## Technical articles
 
 
-- [mini-anything 迷你前端源码库](https://github.com/sunny-117/mini-anything) ：🚀 集合了前端领域的各种迷你版本的库，探索前端库源码，实现超级迷你版本，只包含原库的主流程，不包含边界 case       ![](https://img.shields.io/github/stars/Sunny-117/mini-anything?style=social)
-- [前端历险记](https://sunny-117.github.io/blog/)：Sunny 写博客的地方
+- [mini-anything](https://github.com/sunny-117/mini-anything) ：🚀 Explore the source code of the front-end library and implement a super mini version
+ [](https://img.shields.io/github/stars/Sunny-117/mini-anything?style=social)
+- [Frontend Adventures](https://sunny-117.github.io/blog/): Sunny's blogs
 
 ## React Hooks
 
-- [shooks](https://github.com/Sunny-117/shooks)：📦️ 一款高质量，可靠的 React Hooks 库
+- [shooks](https://github.com/Sunny-117/shooks)：📦️ A high-quality & reliable React Hooks library.
 
 ## compiler
 
-- [tiny-complier](https://github.com/Sunny-117/tiny-complier)：实现超级 mini 的编译器，灵感来自于[the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+- [tiny-complier](https://github.com/Sunny-117/tiny-complier): A compiler that implements super mini, inspired by [the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
 
 ## Starter Templates
 
 
 ## VS Code Extensions
 
-- [vsc-delete-func](https://github.com/Sunny-117/vsc-delete-func)：🍻 vscode plugins
+- [vsc-delete-func](https://github.com/Sunny-117/vsc-delete-func)：🍻 vscode plugins for func delete quickly
 
 ## TypeScript lib
 
-- [lodash-ts](https://github.com/Sunny-117/lodash-ts)：🎉 一致性、模块化、高性能的 JavaScript 实用工具库。本仓库完成 lodash 的 typescript 版本，只实现 lodash 中漂亮的函数，集成 Vitest 单元测试
-
+- [lodash-ts](https://github.com/Sunny-117/lodash-ts)：🎉 A consistent, modular, and performant JavaScript utility library.
 
 
 ## plugin
@@ -91,7 +89,7 @@
 
 ## SDK
 
-- [Speed-measuring-gadget](https://github.com/Sunny-117/Speed-measuring-gadget)：一款测网速小工具，同时它具有测试内外网的能力
+- [Speed-measuring-gadget](https://github.com/Sunny-117/Speed-measuring-gadget): A small tool for testing network speed. It also has the ability to test internal and external networks.
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny-117" alt="sunny-117" /></a> </p>
