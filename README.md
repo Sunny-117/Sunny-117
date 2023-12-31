@@ -33,7 +33,7 @@
 
 # <a href="https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0">Sunny's instructions</a>
 
-- 🧱 搬砖记录：didi ✈️ bytedance ✈ baidu
+- 🧱 Work Experience：didi(2021) ✈️ bytedance(2022) ✈ baidu(2023)
 - 🚀 前端历险记：https://sunny-117.github.io/blog/
 - 🚀 迷你前端源码库: https://sunny-117.github.io/mini-anything-docs/
 - 📦️ 纯基础知识沉淀 https://sunny-117.github.io/
