@@ -33,7 +33,7 @@
 
 # <a href="https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0">Sunny's instructions</a>
 
-- 🧱 Work Experience：didi(2021) ✈️ bytedance(2022) ✈ baidu(2023)
+- 🧱 Work Experience：didi(2021) ✈️ bytedance(2022) ✈ baidu(2023-present)
 - 🚀 Frontend Adventures: https://sunny-117.github.io/blog/
 - 🚀 Mini-anything: https://sunny-117.github.io/mini-anything-docs/
 - 📦️ Basic knowledge: https://sunny-117.github.io/
