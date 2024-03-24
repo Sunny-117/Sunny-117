@@ -1,6 +1,3 @@
-
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300" style="border-radius: 16px"/>
-
 # <a href="https://sunny-117.github.io/blog/getting-started.html">Sunny's instructions</a>
 
 - 🧱 Work Experience：didi(2021) ✈️ bytedance(2022) ✈ baidu(2023-present)
