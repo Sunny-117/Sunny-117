@@ -1,7 +1,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
 
-# <a href="https://jzq422bol5.feishu.cn/docx/doxcnyogD4POabvLHoa1yoEH9W0">Sunny's instructions</a>
+# <a href="https://sunny-117.github.io/blog/getting-started.html">Sunny's instructions</a>
 
 - 🧱 Work Experience：didi(2021) ✈️ bytedance(2022) ✈ baidu(2023-present)
 - 🚀 Frontend Adventures: https://sunny-117.github.io/blog/
