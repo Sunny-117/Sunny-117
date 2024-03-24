@@ -11,8 +11,6 @@
 - ✨  [juejin](https://juejin.cn/user/2551305355400797/columns)  [nowcoder](https://www.nowcoder.com/users/363848192)  <a href="https://space.bilibili.com/447694807" target="_blank">bilibili</a>
 - 💬 WeChat：**19811715506**，Welcome to communicate!
 
-# Open Source
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunny-117" alt="sunny-117" /></a> </p>
 
 # Github Status
