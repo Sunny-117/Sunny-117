@@ -2,7 +2,7 @@
 
 - 🧱 Work Experience：didi(2021) ✈️ bytedance(2022) ✈ baidu(2023-present)
 - 🚀 Frontend Adventures: https://sunny-117.github.io/blog/
-- 🚀 Mini-anything: https://sunny-117.github.io/mini-anything-docs/
+- 🚀 Mini-anything: https://sunny-117.github.io/mini-anything/
 - 🗃️ rc-design: https://sunny-117.github.io/rc-design/
 - 📦️ Basic knowledge: https://sunny-117.github.io/
 - ✨  [juejin](https://juejin.cn/user/2551305355400797/columns)  [nowcoder](https://www.nowcoder.com/users/363848192)  <a href="https://space.bilibili.com/447694807" target="_blank">bilibili</a>
