@@ -6,7 +6,7 @@
 - 🗃️ rc-design: https://sunny-117.github.io/rc-design/
 - 📦️ Basic knowledge: https://sunny-117.github.io/
 - 🎨 draw-wasm: https://github.com/rustify-org/draw-wasm
-- ✨  [juejin](https://juejin.cn/user/2551305355400797/columns)  [nowcoder](https://www.nowcoder.com/users/363848192)  <a href="https://space.bilibili.com/447694807" target="_blank">bilibili</a>
+- ✨  [掘金](https://juejin.cn/user/2551305355400797/columns)  [牛客](https://www.nowcoder.com/users/363848192)  <a href="https://space.bilibili.com/447694807" target="_blank">哔哩哔哩</a>
 - 💬 WeChat：**19811715506**，Welcome to communicate!
 
 
