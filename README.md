@@ -1,4 +1,4 @@
-# <a href="https://sunny-117.github.io/blog/getting-started.html">About me</a>
+# <a href="https://sunny-117.github.io/blog/getting-started.html">My Projects</a>
 
 - 🧱 Work Experience：didi(2021) ✈ bytedance(2022) ✈️ baidu(2023-present)
 - 🚀 Frontend Adventures: https://sunny-117.github.io/blog/
