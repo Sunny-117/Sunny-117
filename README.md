@@ -9,7 +9,7 @@
 
 ## About Me
 
-- <img src="https://img.shields.io/badge/DiDi-FC9153?style=flat-square&logo=didi&logoColor=white" height="20"/> (2021) → <img src="https://img.shields.io/badge/ByteDance-000000?style=flat-square&logo=bytedance&logoColor=white" height="20"/> (2022) → <img src="https://img.shields.io/badge/Baidu-2932E1?style=flat-square&logo=baidu&logoColor=white" height="20"/> (2023-present)
+- <a href="https://www.didi.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMfIp7ASo1xBK7cQbzaFK5DIbPDappLB8aQ&s" height="20"/></a> (2021) → <a href="https://www.bytedance.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bytedance-color.png" height="20"/></a> (2022) → <a href="https://www.baidu.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/baidu-color.png" height="20"/></a> (2023-present)
 - <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" height="20"/> Frontend Adventures: https://sunny-117.github.io/blog/
 - <img src="https://img.shields.io/badge/Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white" height="20"/> Tiny-anything: https://sunny-117.github.io/tiny-anything/
 - <img src="https://img.shields.io/badge/Knowledge-00C7B7?style=flat-square&logo=gitbook&logoColor=white" height="20"/> Basic knowledge: https://sunny-117.github.io/
