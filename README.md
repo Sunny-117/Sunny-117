@@ -9,7 +9,7 @@
 
 ## About Me
 
-- <img src="https://img.shields.io/badge/DiDi-FF6611?style=flat-square&logo=didi&logoColor=white" height="20"/> (2021) → <img src="https://img.shields.io/badge/ByteDance-3C8CFF?style=flat-square&logo=bytedance&logoColor=white" height="20"/> (2022) → <img src="https://img.shields.io/badge/Baidu-2932E1?style=flat-square&logo=baidu&logoColor=white" height="20"/> (2023-present)
+- <img src="https://img.shields.io/badge/DiDi-FC9153?style=flat-square&logo=didi&logoColor=white" height="20"/> (2021) → <img src="https://img.shields.io/badge/ByteDance-000000?style=flat-square&logo=bytedance&logoColor=white" height="20"/> (2022) → <img src="https://img.shields.io/badge/Baidu-2932E1?style=flat-square&logo=baidu&logoColor=white" height="20"/> (2023-present)
 - <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" height="20"/> Frontend Adventures: https://sunny-117.github.io/blog/
 - <img src="https://img.shields.io/badge/Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white" height="20"/> Tiny-anything: https://sunny-117.github.io/tiny-anything/
 - <img src="https://img.shields.io/badge/Knowledge-00C7B7?style=flat-square&logo=gitbook&logoColor=white" height="20"/> Basic knowledge: https://sunny-117.github.io/
@@ -20,7 +20,7 @@
 
 - [![js-challenges](https://img.shields.io/github/stars/Sunny-117/js-challenges?style=social&label=js-challenges)](https://github.com/Sunny-117/js-challenges): Challenge your JavaScript programming limits step by step
 - [![tiny-anything](https://img.shields.io/github/stars/Sunny-117/tiny-anything?style=social&label=tiny-anything)](https://github.com/Sunny-117/tiny-anything): Explore the source code of frontend libraries and implement super mini versions
-- [![BOSScript](https://img.shields.io/github/stars/Sunny-117/BOSScript?style=social&label=BOSScript)](https://github.com/Sunny-117/BOSScript): One-click batch resume submission script for Boss Zhipin
+- [![bosscript](https://img.shields.io/github/stars/Sunny-117/BOSScript?style=social&label=bosscript)](https://github.com/Sunny-117/BOSScript): One-click batch resume submission script for Boss Zhipin
 - [![blog](https://img.shields.io/github/stars/Sunny-117/blog?style=social&label=blog)](https://github.com/Sunny-117/blog): Frontend adventures blog
 - [![awesome-native](https://img.shields.io/github/stars/Sunny-117/awesome-native?style=social&label=awesome-native)](https://github.com/Sunny-117/awesome-native): Collection of native JavaScript projects
 - [![tiny-vite](https://img.shields.io/github/stars/Sunny-117/tiny-vite?style=social&label=tiny-vite)](https://github.com/Sunny-117/tiny-vite): Lightweight frontend build tool with dual-engine architecture, esbuild pre-bundling, HMR, plugin system
@@ -66,8 +66,8 @@
 - [![rka](https://img.shields.io/github/stars/Sunny-117/rka?style=social&label=rka)](https://github.com/Sunny-117/rka): A component that maintains component state and avoids repeated re-rendering
 - [![rspack-circular-dependency-plugin](https://img.shields.io/github/stars/Sunny-117/rspack-circular-dependency-plugin?style=social&label=rspack-circular-dependency-plugin)](https://github.com/Sunny-117/rspack-circular-dependency-plugin): Detect circular dependencies in modules compiled with Rspack
 - [![nodemon-rs](https://img.shields.io/github/stars/Sunny-117/nodemon-rs?style=social&label=nodemon-rs)](https://github.com/Sunny-117/nodemon-rs): A fast implementation of nodemon in Rust
-- [![QuickNote](https://img.shields.io/github/stars/Sunny-117/QuickNote?style=social&label=QuickNote)](https://github.com/Sunny-117/QuickNote): Lightweight macOS menu bar note app based on Rust
-- [![MicroFE](https://img.shields.io/github/stars/Sunny-117/MicroFE?style=social&label=MicroFE)](https://github.com/Sunny-117/MicroFE): Micro frontend framework
+- [![quicknote](https://img.shields.io/github/stars/Sunny-117/QuickNote?style=social&label=quicknote)](https://github.com/Sunny-117/QuickNote): Lightweight macOS menu bar note app based on Rust
+- [![microfe](https://img.shields.io/github/stars/Sunny-117/MicroFE?style=social&label=microfe)](https://github.com/Sunny-117/MicroFE): Micro frontend framework
 - [![30-seconds-of-rs](https://img.shields.io/github/stars/Sunny-117/30-seconds-of-rs?style=social&label=30-seconds-of-rs)](https://github.com/Sunny-117/30-seconds-of-rs): 30 seconds to collect useful Rust snippets
 
 ---
