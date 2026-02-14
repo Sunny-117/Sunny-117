@@ -1,20 +1,31 @@
-<div align="center">
-  <p>Hi! I'm Sunny-117, a passionate frontend developer who loves to build things from scratch.</p>
-  <p>In-depth research, do what you say</p>
-  <p>
-    <img src="https://img.shields.io/github/followers/Sunny-117" />
-    <img src="https://img.shields.io/github/stars/Sunny-117">
-  </p>
-</div>
+<h1 align="center">
+  <samp>Sunny-117</samp>
+</h1>
 
-## About Me
+<p align="center">
+  <samp>A passionate frontend developer who loves to build things from scratch</samp>
+</p>
 
-- <a href="https://www.didi.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMfIp7ASo1xBK7cQbzaFK5DIbPDappLB8aQ&s" height="20"/></a> (2021) → <a href="https://www.bytedance.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bytedance-color.png" height="20"/></a> (2022) → <a href="https://www.baidu.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/baidu-color.png" height="20"/></a> (2023-present)
-- <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" height="20"/> Frontend Adventures: https://sunny-117.github.io/blog/
-- <img src="https://img.shields.io/badge/Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white" height="20"/> Tiny-anything: https://sunny-117.github.io/tiny-anything/
-- <img src="https://img.shields.io/badge/Knowledge-00C7B7?style=flat-square&logo=gitbook&logoColor=white" height="20"/> Basic knowledge: https://sunny-117.github.io/
-- <a href="https://juejin.cn/user/2551305355400797/columns"><img src="https://img.shields.io/badge/Juejin-1E80FF?style=flat-square&logo=juejin&logoColor=white" height="20"/></a> <a href="https://www.nowcoder.com/users/363848192"><img src="https://img.shields.io/badge/Nowcoder-00C853?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+&logoColor=white" height="20"/></a>
-- <img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" height="20"/> **19811715506**
+<p align="center">
+  <samp>In-depth research, do what you say</samp>
+</p>
+
+<p align="center">
+  <a href="https://sunny-117.github.io/blog/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" height="20"/></a>
+  <a href="https://juejin.cn/user/2551305355400797/columns"><img src="https://img.shields.io/badge/Juejin-1E80FF?style=flat-square&logo=juejin&logoColor=white" height="20"/></a>
+  <a href="https://sunny-117.github.io/"><img src="https://img.shields.io/badge/Knowledge-00C7B7?style=flat-square&logo=gitbook&logoColor=white" height="20"/></a>
+  <a href="https://www.nowcoder.com/users/363848192"><img src="https://img.shields.io/badge/Nowcoder-00C853?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+&logoColor=white" height="20"/></a>
+  <img src="https://img.shields.io/badge/WeChat-19811715506-07C160?style=flat-square&logo=wechat&logoColor=white" height="20"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Sunny-117" />
+  <img src="https://img.shields.io/github/stars/Sunny-117">
+</p>
+
+<p align="center">
+  <a href="https://www.didiglobal.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMfIp7ASo1xBK7cQbzaFK5DIbPDappLB8aQ&s" height="20"/></a> (2021) → <a href="https://www.bytedance.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bytedance-color.png" height="20"/></a> (2022) → <a href="https://www.baidu.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/baidu-color.png" height="20"/></a> (2023-present)
+</p>
 
 ## <a href="https://sunny-117.github.io/blog/getting-started.html">My Projects</a>
 
