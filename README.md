@@ -64,6 +64,24 @@
 </details>
 
 <details open>
+<summary><strong>📦 SDK</strong></summary>
+
+- [![lite-tracker](https://img.shields.io/github/stars/Sunny-117/lite-tracker?style=social&label=lite-tracker)](https://github.com/Sunny-117/lite-tracker): Frontend monitoring SDK from scratch ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- [![abtest-kit](https://img.shields.io/github/stars/Sunny-117/abtest-kit?style=social&label=abtest-kit)](https://github.com/Sunny-117/abtest-kit): Lightweight A/B testing SDK with multiple traffic splitting strategies and React integration ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- [![ureq](https://img.shields.io/github/stars/Sunny-117/ureq?style=social&label=ureq)](https://github.com/Sunny-117/ureq): A modern, modular HTTP request library ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- [![rc-design](https://img.shields.io/github/stars/Sunny-117/rc-design?style=social&label=rc-design)](https://github.com/Sunny-117/rc-design): A component library developed for React ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white)
+- [![browser-storage-lru-cleaner](https://img.shields.io/github/stars/Sunny-117/browser-storage-lru-cleaner?style=social&label=browser-storage-lru-cleaner)](https://github.com/Sunny-117/browser-storage-lru-cleaner): Browser storage auto-cleanup SDK using LRU algorithm ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- [![chunkflow](https://img.shields.io/github/stars/Sunny-117/chunkflow?style=social&label=chunkflow)](https://github.com/Sunny-117/chunkflow): Large file upload solution with chunked upload, resumable upload, and instant upload ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- [![streamsight](https://img.shields.io/github/stars/Sunny-117/streamsight?style=social&label=streamsight)](https://github.com/Sunny-117/streamsight): User behavior recording and playback system based on rrweb ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![rrweb](https://img.shields.io/badge/-rrweb-FF6B6B?style=flat-square&logoColor=white)
+- [![json-visual-diff](https://img.shields.io/github/stars/Sunny-117/json-visual-diff?style=social&label=json-visual-diff)](https://github.com/Sunny-117/json-visual-diff): JSON visual diff SDK with pluggable renderer architecture ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- [![outilx](https://img.shields.io/github/stars/Sunny-117/outilx?style=social&label=outilx)](https://github.com/Sunny-117/outilx): A modern, modular utility library collection for JavaScript/TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- [![network-speed-js](https://img.shields.io/github/stars/Sunny-117/network-speed-js?style=social&label=network-speed-js)](https://github.com/Sunny-117/network-speed-js): A small tool for testing network speed ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- [![doc-render-sdk](https://img.shields.io/github/stars/Sunny-117/doc-render-sdk?style=social&label=doc-render-sdk)](https://github.com/Sunny-117/doc-render-sdk): Component documentation site SDK based on Vite + robuild + React ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+- [![rka](https://img.shields.io/github/stars/Sunny-117/rka?style=social&label=rka)](https://github.com/Sunny-117/rka): A component that maintains component state and avoids repeated re-rendering ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</details>
+
+<details>
 <summary><strong>🚀 Applications</strong></summary>
 
 - [![js-challenges](https://img.shields.io/github/stars/Sunny-117/js-challenges?style=social&label=js-challenges)](https://github.com/Sunny-117/js-challenges): Challenge your JavaScript programming limits step by step ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -79,7 +97,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><strong>🦀 Rust Projects</strong></summary>
 
 - [![mini-rspack](https://img.shields.io/github/stars/Sunny-117/mini-rspack?style=social&label=mini-rspack)](https://github.com/Sunny-117/mini-rspack): A simplified webpack bundler using Rust ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -92,24 +110,6 @@
 - [![text-processor](https://img.shields.io/github/stars/Sunny-117/text-processor?style=social&label=text-processor)](https://github.com/Sunny-117/text-processor): Rust-based text processor for flexible text processing and conversion ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 - [![quicknote](https://img.shields.io/github/stars/Sunny-117/QuickNote?style=social&label=quicknote)](https://github.com/Sunny-117/QuickNote): Lightweight macOS menu bar note app based on Rust ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 - [![30-seconds-of-rs](https://img.shields.io/github/stars/Sunny-117/30-seconds-of-rs?style=social&label=30-seconds-of-rs)](https://github.com/Sunny-117/30-seconds-of-rs): 30 seconds to collect useful Rust snippets ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
-</details>
-
-<details open>
-<summary><strong>📦 SDK</strong></summary>
-
-- [![lite-tracker](https://img.shields.io/github/stars/Sunny-117/lite-tracker?style=social&label=lite-tracker)](https://github.com/Sunny-117/lite-tracker): Frontend monitoring SDK from scratch ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- [![abtest-kit](https://img.shields.io/github/stars/Sunny-117/abtest-kit?style=social&label=abtest-kit)](https://github.com/Sunny-117/abtest-kit): Lightweight A/B testing SDK with multiple traffic splitting strategies and React integration ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- [![ureq](https://img.shields.io/github/stars/Sunny-117/ureq?style=social&label=ureq)](https://github.com/Sunny-117/ureq): A modern, modular HTTP request library ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- [![rc-design](https://img.shields.io/github/stars/Sunny-117/rc-design?style=social&label=rc-design)](https://github.com/Sunny-117/rc-design): A component library developed for React ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white)
-- [![browser-storage-lru-cleaner](https://img.shields.io/github/stars/Sunny-117/browser-storage-lru-cleaner?style=social&label=browser-storage-lru-cleaner)](https://github.com/Sunny-117/browser-storage-lru-cleaner): Browser storage auto-cleanup SDK using LRU algorithm ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- [![chunkflow](https://img.shields.io/github/stars/Sunny-117/chunkflow?style=social&label=chunkflow)](https://github.com/Sunny-117/chunkflow): Large file upload solution with chunked upload, resumable upload, and instant upload ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- [![streamsight](https://img.shields.io/github/stars/Sunny-117/streamsight?style=social&label=streamsight)](https://github.com/Sunny-117/streamsight): User behavior recording and playback system based on rrweb ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![rrweb](https://img.shields.io/badge/-rrweb-FF6B6B?style=flat-square&logoColor=white)
-- [![json-visual-diff](https://img.shields.io/github/stars/Sunny-117/json-visual-diff?style=social&label=json-visual-diff)](https://github.com/Sunny-117/json-visual-diff): JSON visual diff SDK with pluggable renderer architecture ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- [![outilx](https://img.shields.io/github/stars/Sunny-117/outilx?style=social&label=outilx)](https://github.com/Sunny-117/outilx): A modern, modular utility library collection for JavaScript/TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- [![network-speed-js](https://img.shields.io/github/stars/Sunny-117/network-speed-js?style=social&label=network-speed-js)](https://github.com/Sunny-117/network-speed-js): A small tool for testing network speed ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- [![doc-render-sdk](https://img.shields.io/github/stars/Sunny-117/doc-render-sdk?style=social&label=doc-render-sdk)](https://github.com/Sunny-117/doc-render-sdk): Component documentation site SDK based on Vite + robuild + React ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-- [![rka](https://img.shields.io/github/stars/Sunny-117/rka?style=social&label=rka)](https://github.com/Sunny-117/rka): A component that maintains component state and avoids repeated re-rendering ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </details>
 
