@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/github/stars/Sunny-117">
 </p>
 <p align="center">
-  <a href="https://www.didiglobal.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMfIp7ASo1xBK7cQbzaFK5DIbPDappLB8aQ&s" height="20"/></a> (2021) &nbsp;&nbsp; <a href="https://www.bytedance.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bytedance-color.png" height="20"/></a> (2022) &nbsp;&nbsp; <a href="https://www.baidu.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/baidu-color.png" height="20"/></a> (2023-present)
+  <a href="https://www.didiglobal.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMfIp7ASo1xBK7cQbzaFK5DIbPDappLB8aQ&s" height="20"/></a> <sub>(2021)</sub> &nbsp;&nbsp; <a href="https://www.bytedance.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bytedance-color.png" height="20"/></a> <sub>(2022)</sub> &nbsp;&nbsp; <a href="https://www.baidu.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/baidu-color.png" height="20"/></a> <sub>(2023-present)</sub>
 </p>
 
 
