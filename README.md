@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/github/stars/Sunny-117">
 </p>
 <p align="center">
-  <a href="https://www.didiglobal.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMfIp7ASo1xBK7cQbzaFK5DIbPDappLB8aQ&s" height="20"/></a> <img src="./assets/year-2021.svg" height="16"/> &nbsp;&nbsp; <a href="https://www.bytedance.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bytedance-color.png" height="20"/></a> <img src="./assets/year-2022.svg" height="16"/> &nbsp;&nbsp; <a href="https://www.baidu.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/baidu-color.png" height="20"/></a> <img src="./assets/year-2023-present.svg" height="16"/>
+  <a href="https://www.didiglobal.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMfIp7ASo1xBK7cQbzaFK5DIbPDappLB8aQ&s" height="20"/></a> <img src="./assets/year-2021.svg" height="16"/> &nbsp;&nbsp; <a href="https://www.bytedance.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/bytedance-color.png" height="20"/></a> <img src="./assets/year-2022.svg" height="16"/> &nbsp;&nbsp; <a href="https://www.baidu.com/"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/baidu-color.png" height="20"/></a> <img src="./assets/year-2023-2026.svg" height="16"/> &nbsp;&nbsp; <a href="https://www.alibabagroup.com/"><img src="https://img.alicdn.com/imgextra/i3/O1CN01DoFnhw1Mg6WwIJlwj_!!6000000001463-55-tps-122-79.svg" height="20"/></a> <img src="./assets/year-2026-present.svg" height="16"/>
 </p>
 
 
